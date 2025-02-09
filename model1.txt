@@ -1,0 +1,410 @@
+Loaded 61269 images from C:\Users\Acer\Desktop\Model\ok\train.
+Loaded 13131 images from C:\Users\Acer\Desktop\Model\ok\val.
+Loaded 13140 images from C:\Users\Acer\Desktop\Model\ok\test.
+
+Federated Epoch [1/100]
+Client 1: Loss: 0.3095, Accuracy: 0.3441
+Client 2: Loss: 0.3009, Accuracy: 0.3534
+Client 3: Loss: 0.3026, Accuracy: 0.3493
+Average Client Loss: 0.3043
+Average Client Accuracy: 0.3489
+Validation Loss: 0.3881 | Accuracy: 0.2720 | Precision: 0.3080 | Recall: 0.2720 | F1 Score: 0.2131
+Saved the best model based on validation accuracy!
+
+Federated Epoch [2/100]
+Client 1: Loss: 0.2635, Accuracy: 0.3982
+Client 2: Loss: 0.2607, Accuracy: 0.3998
+Client 3: Loss: 0.2612, Accuracy: 0.4038
+Average Client Loss: 0.2618
+Average Client Accuracy: 0.4006
+Validation Loss: 0.2811 | Accuracy: 0.3855 | Precision: 0.4919 | Recall: 0.3855 | F1 Score: 0.3456
+Saved the best model based on validation accuracy!
+
+Federated Epoch [3/100]
+Client 1: Loss: 0.2337, Accuracy: 0.4419
+Client 2: Loss: 0.2329, Accuracy: 0.4433
+Client 3: Loss: 0.2321, Accuracy: 0.4413
+Average Client Loss: 0.2329
+Average Client Accuracy: 0.4421
+Validation Loss: 0.2385 | Accuracy: 0.4738 | Precision: 0.5332 | Recall: 0.4738 | F1 Score: 0.4524
+Saved the best model based on validation accuracy!
+
+Federated Epoch [4/100]
+Client 1: Loss: 0.2115, Accuracy: 0.4762
+Client 2: Loss: 0.2092, Accuracy: 0.4753
+Client 3: Loss: 0.2091, Accuracy: 0.4744
+Average Client Loss: 0.2100
+Average Client Accuracy: 0.4753
+Validation Loss: 0.2351 | Accuracy: 0.4793 | Precision: 0.5622 | Recall: 0.4793 | F1 Score: 0.4664
+Saved the best model based on validation accuracy!
+
+Federated Epoch [5/100]
+Client 1: Loss: 0.1932, Accuracy: 0.4966
+Client 2: Loss: 0.1921, Accuracy: 0.5017
+Client 3: Loss: 0.1923, Accuracy: 0.4982
+Average Client Loss: 0.1925
+Average Client Accuracy: 0.4988
+Validation Loss: 0.2084 | Accuracy: 0.5207 | Precision: 0.5658 | Recall: 0.5207 | F1 Score: 0.5038
+Saved the best model based on validation accuracy!
+
+Federated Epoch [6/100]
+Client 1: Loss: 0.1810, Accuracy: 0.5143
+Client 2: Loss: 0.1775, Accuracy: 0.5226
+Client 3: Loss: 0.1786, Accuracy: 0.5204
+Average Client Loss: 0.1790
+Average Client Accuracy: 0.5191
+Validation Loss: 0.1879 | Accuracy: 0.5552 | Precision: 0.5721 | Recall: 0.5552 | F1 Score: 0.5466
+Saved the best model based on validation accuracy!
+
+Federated Epoch [7/100]
+Client 1: Loss: 0.1677, Accuracy: 0.5338
+Client 2: Loss: 0.1646, Accuracy: 0.5396
+Client 3: Loss: 0.1649, Accuracy: 0.5387
+Average Client Loss: 0.1657
+Average Client Accuracy: 0.5374
+Validation Loss: 0.1832 | Accuracy: 0.5582 | Precision: 0.5990 | Recall: 0.5582 | F1 Score: 0.5465
+Saved the best model based on validation accuracy!
+
+Federated Epoch [8/100]
+Client 1: Loss: 0.1559, Accuracy: 0.5545
+Client 2: Loss: 0.1531, Accuracy: 0.5580
+Client 3: Loss: 0.1524, Accuracy: 0.5580
+Average Client Loss: 0.1538
+Average Client Accuracy: 0.5569
+Validation Loss: 0.1704 | Accuracy: 0.5861 | Precision: 0.5965 | Recall: 0.5861 | F1 Score: 0.5778
+Saved the best model based on validation accuracy!
+
+Federated Epoch [9/100]
+Client 1: Loss: 0.1461, Accuracy: 0.5689
+Client 2: Loss: 0.1452, Accuracy: 0.5662
+Client 3: Loss: 0.1455, Accuracy: 0.5683
+Average Client Loss: 0.1456
+Average Client Accuracy: 0.5678
+Validation Loss: 0.1816 | Accuracy: 0.5673 | Precision: 0.6159 | Recall: 0.5673 | F1 Score: 0.5572
+No improvement for 1 epochs.
+
+Federated Epoch [10/100]
+Client 1: Loss: 0.1385, Accuracy: 0.5767
+Client 2: Loss: 0.1358, Accuracy: 0.5836
+Client 3: Loss: 0.1377, Accuracy: 0.5810
+Average Client Loss: 0.1374
+Average Client Accuracy: 0.5804
+Validation Loss: 0.1807 | Accuracy: 0.5776 | Precision: 0.6184 | Recall: 0.5776 | F1 Score: 0.5627
+No improvement for 2 epochs.
+
+Federated Epoch [11/100]
+Client 1: Loss: 0.1286, Accuracy: 0.5934
+Client 2: Loss: 0.1261, Accuracy: 0.5978
+Client 3: Loss: 0.1288, Accuracy: 0.5907
+Average Client Loss: 0.1278
+Average Client Accuracy: 0.5939
+Validation Loss: 0.1583 | Accuracy: 0.6082 | Precision: 0.6249 | Recall: 0.6082 | F1 Score: 0.6000
+Saved the best model based on validation accuracy!
+
+Federated Epoch [12/100]
+Client 1: Loss: 0.1203, Accuracy: 0.6066
+Client 2: Loss: 0.1207, Accuracy: 0.6074
+Client 3: Loss: 0.1203, Accuracy: 0.6120
+Average Client Loss: 0.1204
+Average Client Accuracy: 0.6087
+Validation Loss: 0.1649 | Accuracy: 0.5987 | Precision: 0.6245 | Recall: 0.5987 | F1 Score: 0.5907
+No improvement for 3 epochs.
+
+Federated Epoch [13/100]
+Client 1: Loss: 0.1134, Accuracy: 0.6181
+Client 2: Loss: 0.1115, Accuracy: 0.6207
+Client 3: Loss: 0.1125, Accuracy: 0.6202
+Average Client Loss: 0.1125
+Average Client Accuracy: 0.6197
+Validation Loss: 0.1547 | Accuracy: 0.6218 | Precision: 0.6357 | Recall: 0.6218 | F1 Score: 0.6153
+Saved the best model based on validation accuracy!
+
+Federated Epoch [14/100]
+Client 1: Loss: 0.1064, Accuracy: 0.6322
+Client 2: Loss: 0.1036, Accuracy: 0.6350
+Client 3: Loss: 0.1056, Accuracy: 0.6311
+Average Client Loss: 0.1052
+Average Client Accuracy: 0.6328
+Validation Loss: 0.1566 | Accuracy: 0.6224 | Precision: 0.6455 | Recall: 0.6224 | F1 Score: 0.6159
+Saved the best model based on validation accuracy!
+
+Federated Epoch [15/100]
+Client 1: Loss: 0.0991, Accuracy: 0.6454
+Client 2: Loss: 0.1001, Accuracy: 0.6439
+Client 3: Loss: 0.0980, Accuracy: 0.6455
+Average Client Loss: 0.0991
+Average Client Accuracy: 0.6450
+Validation Loss: 0.1505 | Accuracy: 0.6272 | Precision: 0.6483 | Recall: 0.6272 | F1 Score: 0.6203
+Saved the best model based on validation accuracy!
+
+Federated Epoch [16/100]
+Client 1: Loss: 0.0917, Accuracy: 0.6569
+Client 2: Loss: 0.0884, Accuracy: 0.6618
+Client 3: Loss: 0.0911, Accuracy: 0.6586
+Average Client Loss: 0.0904
+Average Client Accuracy: 0.6591
+Validation Loss: 0.1474 | Accuracy: 0.6274 | Precision: 0.6520 | Recall: 0.6274 | F1 Score: 0.6282
+Saved the best model based on validation accuracy!
+
+Federated Epoch [17/100]
+Client 1: Loss: 0.0832, Accuracy: 0.6736
+Client 2: Loss: 0.0833, Accuracy: 0.6742
+Client 3: Loss: 0.0833, Accuracy: 0.6711
+Average Client Loss: 0.0833
+Average Client Accuracy: 0.6729
+Validation Loss: 0.1500 | Accuracy: 0.6292 | Precision: 0.6673 | Recall: 0.6292 | F1 Score: 0.6271
+Saved the best model based on validation accuracy!
+
+Federated Epoch [18/100]
+Client 1: Loss: 0.0805, Accuracy: 0.6779
+Client 2: Loss: 0.0761, Accuracy: 0.6871
+Client 3: Loss: 0.0765, Accuracy: 0.6846
+Average Client Loss: 0.0777
+Average Client Accuracy: 0.6832
+Validation Loss: 0.1350 | Accuracy: 0.6585 | Precision: 0.6583 | Recall: 0.6585 | F1 Score: 0.6511
+Saved the best model based on validation accuracy!
+
+Federated Epoch [19/100]
+Client 1: Loss: 0.0679, Accuracy: 0.7003
+Client 2: Loss: 0.0701, Accuracy: 0.7000
+Client 3: Loss: 0.0699, Accuracy: 0.7020
+Average Client Loss: 0.0693
+Average Client Accuracy: 0.7008
+Validation Loss: 0.1318 | Accuracy: 0.6528 | Precision: 0.6787 | Recall: 0.6528 | F1 Score: 0.6551
+No improvement for 4 epochs.
+
+Federated Epoch [20/100]
+Client 1: Loss: 0.0612, Accuracy: 0.7200
+Client 2: Loss: 0.0623, Accuracy: 0.7148
+Client 3: Loss: 0.0613, Accuracy: 0.7159
+Average Client Loss: 0.0616
+Average Client Accuracy: 0.7169
+Validation Loss: 0.1331 | Accuracy: 0.6614 | Precision: 0.6792 | Recall: 0.6614 | F1 Score: 0.6601
+Saved the best model based on validation accuracy!
+
+Federated Epoch [21/100]
+Client 1: Loss: 0.0552, Accuracy: 0.7295
+Client 2: Loss: 0.0541, Accuracy: 0.7321
+Client 3: Loss: 0.0578, Accuracy: 0.7226
+Average Client Loss: 0.0557
+Average Client Accuracy: 0.7281
+Validation Loss: 0.1205 | Accuracy: 0.6722 | Precision: 0.6879 | Recall: 0.6722 | F1 Score: 0.6729
+Saved the best model based on validation accuracy!
+
+Federated Epoch [22/100]
+Client 1: Loss: 0.0484, Accuracy: 0.7436
+Client 2: Loss: 0.0500, Accuracy: 0.7427
+Client 3: Loss: 0.0484, Accuracy: 0.7468
+Average Client Loss: 0.0489
+Average Client Accuracy: 0.7444
+Validation Loss: 0.1308 | Accuracy: 0.6666 | Precision: 0.6850 | Recall: 0.6666 | F1 Score: 0.6642
+No improvement for 5 epochs.
+
+Federated Epoch [23/100]
+Client 1: Loss: 0.0430, Accuracy: 0.7617
+Client 2: Loss: 0.0443, Accuracy: 0.7571
+Client 3: Loss: 0.0418, Accuracy: 0.7612
+Average Client Loss: 0.0430
+Average Client Accuracy: 0.7600
+Validation Loss: 0.1343 | Accuracy: 0.6647 | Precision: 0.6963 | Recall: 0.6647 | F1 Score: 0.6644
+No improvement for 6 epochs.
+
+Federated Epoch [24/100]
+Client 1: Loss: 0.0382, Accuracy: 0.7737
+Client 2: Loss: 0.0372, Accuracy: 0.7775
+Client 3: Loss: 0.0379, Accuracy: 0.7791
+Average Client Loss: 0.0378
+Average Client Accuracy: 0.7768
+Validation Loss: 0.1246 | Accuracy: 0.6833 | Precision: 0.6958 | Recall: 0.6833 | F1 Score: 0.6824
+Saved the best model based on validation accuracy!
+
+Federated Epoch [25/100]
+Client 1: Loss: 0.0368, Accuracy: 0.7833
+Client 2: Loss: 0.0326, Accuracy: 0.7895
+Client 3: Loss: 0.0360, Accuracy: 0.7821
+Average Client Loss: 0.0351
+Average Client Accuracy: 0.7850
+Validation Loss: 0.1206 | Accuracy: 0.6788 | Precision: 0.6935 | Recall: 0.6788 | F1 Score: 0.6792
+No improvement for 7 epochs.
+
+Federated Epoch [26/100]
+Client 1: Loss: 0.0275, Accuracy: 0.8066
+Client 2: Loss: 0.0273, Accuracy: 0.8053
+Client 3: Loss: 0.0273, Accuracy: 0.8085
+Average Client Loss: 0.0274
+Average Client Accuracy: 0.8068
+Validation Loss: 0.1286 | Accuracy: 0.6869 | Precision: 0.7003 | Recall: 0.6869 | F1 Score: 0.6816
+Saved the best model based on validation accuracy!
+
+Federated Epoch [27/100]
+Client 1: Loss: 0.0258, Accuracy: 0.8098
+Client 2: Loss: 0.0285, Accuracy: 0.8059
+Client 3: Loss: 0.0252, Accuracy: 0.8143
+Average Client Loss: 0.0265
+Average Client Accuracy: 0.8100
+Validation Loss: 0.1194 | Accuracy: 0.6927 | Precision: 0.6969 | Recall: 0.6927 | F1 Score: 0.6877
+Saved the best model based on validation accuracy!
+
+Federated Epoch [28/100]
+Client 1: Loss: 0.0207, Accuracy: 0.8274
+Client 2: Loss: 0.0206, Accuracy: 0.8315
+Client 3: Loss: 0.0214, Accuracy: 0.8244
+Average Client Loss: 0.0209
+Average Client Accuracy: 0.8278
+Validation Loss: 0.1171 | Accuracy: 0.6989 | Precision: 0.7110 | Recall: 0.6989 | F1 Score: 0.6977
+Saved the best model based on validation accuracy!
+
+Federated Epoch [29/100]
+Client 1: Loss: 0.0229, Accuracy: 0.8247
+Client 2: Loss: 0.0212, Accuracy: 0.8259
+Client 3: Loss: 0.0198, Accuracy: 0.8351
+Average Client Loss: 0.0213
+Average Client Accuracy: 0.8286
+Validation Loss: 0.1261 | Accuracy: 0.6815 | Precision: 0.6975 | Recall: 0.6815 | F1 Score: 0.6825
+No improvement for 8 epochs.
+
+Federated Epoch [30/100]
+Client 1: Loss: 0.0146, Accuracy: 0.8553
+Client 2: Loss: 0.0129, Accuracy: 0.8648
+Client 3: Loss: 0.0143, Accuracy: 0.8588
+Average Client Loss: 0.0139
+Average Client Accuracy: 0.8597
+Validation Loss: 0.1202 | Accuracy: 0.6975 | Precision: 0.7150 | Recall: 0.6975 | F1 Score: 0.6985
+No improvement for 9 epochs.
+
+Federated Epoch [31/100]
+Client 1: Loss: 0.0180, Accuracy: 0.8434
+Client 2: Loss: 0.0167, Accuracy: 0.8528
+Client 3: Loss: 0.0159, Accuracy: 0.8488
+Average Client Loss: 0.0169
+Average Client Accuracy: 0.8483
+Validation Loss: 0.1225 | Accuracy: 0.6875 | Precision: 0.7070 | Recall: 0.6875 | F1 Score: 0.6878
+No improvement for 10 epochs.
+
+Federated Epoch [32/100]
+Client 1: Loss: 0.0111, Accuracy: 0.8733
+Client 2: Loss: 0.0142, Accuracy: 0.8568
+Client 3: Loss: 0.0136, Accuracy: 0.8606
+Average Client Loss: 0.0129
+Average Client Accuracy: 0.8636
+Validation Loss: 0.1170 | Accuracy: 0.7040 | Precision: 0.7199 | Recall: 0.7040 | F1 Score: 0.7036
+Saved the best model based on validation accuracy!
+
+Federated Epoch [33/100]
+Client 1: Loss: 0.0104, Accuracy: 0.8798
+Client 2: Loss: 0.0092, Accuracy: 0.8836
+Client 3: Loss: 0.0269, Accuracy: 0.8081
+Average Client Loss: 0.0155
+Average Client Accuracy: 0.8572
+Validation Loss: 0.1162 | Accuracy: 0.7114 | Precision: 0.7184 | Recall: 0.7114 | F1 Score: 0.7070
+Saved the best model based on validation accuracy!
+
+Federated Epoch [34/100]
+Client 1: Loss: 0.0132, Accuracy: 0.8652
+Client 2: Loss: 0.0136, Accuracy: 0.8665
+Client 3: Loss: 0.0039, Accuracy: 0.9187
+Average Client Loss: 0.0102
+Average Client Accuracy: 0.8835
+Validation Loss: 0.1145 | Accuracy: 0.7134 | Precision: 0.7148 | Recall: 0.7134 | F1 Score: 0.7108
+Saved the best model based on validation accuracy!
+
+Federated Epoch [35/100]
+Client 1: Loss: 0.0074, Accuracy: 0.8918
+Client 2: Loss: 0.0061, Accuracy: 0.8987
+Client 3: Loss: 0.0067, Accuracy: 0.9003
+Average Client Loss: 0.0067
+Average Client Accuracy: 0.8970
+Validation Loss: 0.1503 | Accuracy: 0.6933 | Precision: 0.7035 | Recall: 0.6933 | F1 Score: 0.6902
+No improvement for 11 epochs.
+
+Federated Epoch [36/100]
+Client 1: Loss: 0.0045, Accuracy: 0.9149
+Client 2: Loss: 0.0112, Accuracy: 0.8895
+Client 3: Loss: 0.0294, Accuracy: 0.8006
+Average Client Loss: 0.0150
+Average Client Accuracy: 0.8683
+Validation Loss: 0.1117 | Accuracy: 0.7231 | Precision: 0.7142 | Recall: 0.7231 | F1 Score: 0.7158
+Saved the best model based on validation accuracy!
+
+Federated Epoch [37/100]
+Client 1: Loss: 0.0382, Accuracy: 0.7736
+Client 2: Loss: 0.0056, Accuracy: 0.9053
+Client 3: Loss: 0.0033, Accuracy: 0.9265
+Average Client Loss: 0.0157
+Average Client Accuracy: 0.8685
+Validation Loss: 0.1193 | Accuracy: 0.7144 | Precision: 0.7271 | Recall: 0.7144 | F1 Score: 0.7157
+No improvement for 12 epochs.
+
+Federated Epoch [38/100]
+Client 1: Loss: 0.0021, Accuracy: 0.9418
+Client 2: Loss: 0.0069, Accuracy: 0.9005
+Client 3: Loss: 0.0027, Accuracy: 0.9294
+Average Client Loss: 0.0039
+Average Client Accuracy: 0.9239
+Validation Loss: 0.1141 | Accuracy: 0.7266 | Precision: 0.7349 | Recall: 0.7266 | F1 Score: 0.7276
+Saved the best model based on validation accuracy!
+
+Federated Epoch [39/100]
+Client 1: Loss: 0.0017, Accuracy: 0.9455
+Client 2: Loss: 0.0218, Accuracy: 0.8311
+Client 3: Loss: 0.0130, Accuracy: 0.8868
+Average Client Loss: 0.0122
+Average Client Accuracy: 0.8878
+Validation Loss: 0.1112 | Accuracy: 0.7130 | Precision: 0.7164 | Recall: 0.7130 | F1 Score: 0.7113
+No improvement for 13 epochs.
+
+Federated Epoch [40/100]
+Client 1: Loss: 0.0157, Accuracy: 0.8686
+Client 2: Loss: 0.0028, Accuracy: 0.9314
+Client 3: Loss: 0.0032, Accuracy: 0.9270
+Average Client Loss: 0.0072
+Average Client Accuracy: 0.9090
+Validation Loss: 0.1092 | Accuracy: 0.7171 | Precision: 0.7199 | Recall: 0.7171 | F1 Score: 0.7161
+No improvement for 14 epochs.
+
+Federated Epoch [41/100]
+Client 1: Loss: 0.0033, Accuracy: 0.9269
+Client 2: Loss: 0.0020, Accuracy: 0.9420
+Client 3: Loss: 0.0033, Accuracy: 0.9304
+Average Client Loss: 0.0029
+Average Client Accuracy: 0.9331
+Validation Loss: 0.1110 | Accuracy: 0.7347 | Precision: 0.7371 | Recall: 0.7347 | F1 Score: 0.7336
+Saved the best model based on validation accuracy!
+
+Federated Epoch [42/100]
+Client 1: Loss: 0.0012, Accuracy: 0.9506
+Client 2: Loss: 0.0029, Accuracy: 0.9306
+Client 3: Loss: 0.0347, Accuracy: 0.7862
+Average Client Loss: 0.0129
+Average Client Accuracy: 0.8891
+Validation Loss: 0.1129 | Accuracy: 0.7325 | Precision: 0.7406 | Recall: 0.7325 | F1 Score: 0.7330
+No improvement for 15 epochs.
+
+Federated Epoch [43/100]
+Client 1: Loss: 0.0264, Accuracy: 0.8532
+Client 2: Loss: 0.0243, Accuracy: 0.8547
+Client 3: Loss: 0.0018, Accuracy: 0.9448
+Average Client Loss: 0.0175
+Average Client Accuracy: 0.8842
+Validation Loss: 0.1268 | Accuracy: 0.6956 | Precision: 0.6951 | Recall: 0.6956 | F1 Score: 0.6885
+No improvement for 16 epochs.
+
+Federated Epoch [44/100]
+Client 1: Loss: 0.0035, Accuracy: 0.9240
+Client 2: Loss: 0.0025, Accuracy: 0.9336
+Client 3: Loss: 0.0025, Accuracy: 0.9312
+Average Client Loss: 0.0028
+Average Client Accuracy: 0.9296
+Validation Loss: 0.1171 | Accuracy: 0.7425 | Precision: 0.7432 | Recall: 0.7425 | F1 Score: 0.7410
+Saved the best model based on validation accuracy!
+
+Federated Epoch [45/100]
+Client 1: Loss: 0.0010, Accuracy: 0.9552
+Client 2: Loss: 0.0010, Accuracy: 0.9568
+Client 3: Loss: 0.0020, Accuracy: 0.9435
+Average Client Loss: 0.0014
+Average Client Accuracy: 0.9518
+Validation Loss: 0.1232 | Accuracy: 0.7399 | Precision: 0.7432 | Recall: 0.7399 | F1 Score: 0.7374
+No improvement for 17 epochs.
+
+Federated Epoch [46/100]
